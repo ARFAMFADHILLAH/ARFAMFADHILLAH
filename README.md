@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @ARFAMFADHILLAH
 - 👀 I'm interested in programming
-- 🌱 I'm currently learning backend developer
+- 🌱 I'm currently learning web developer
 - 💞️ I want to collaborate in business
 - 📫 How to contact me can send to my email: arfamuhammadfadhillah3@gmail.com
 - 😄 Pronouns: Arfa
