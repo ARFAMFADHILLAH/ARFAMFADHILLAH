@@ -2,12 +2,7 @@
 
 ###
 
-<div style="width:100%; height:auto; max-width:500px; margin:auto;">
-    <iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="100%" height="auto" style="aspect-ratio: 1/1;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p style="text-align:center;">
-    <a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a>
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
