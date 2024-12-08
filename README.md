@@ -60,9 +60,6 @@
 </div>
 
 ###
-
-- **Frontend Development:** HTML/CSS3, JavaScript, Bootstrap :v
-- **Tools and Design:** VSCode, GitHub and Figma -->
 ##
 <!-- snake graph -->
 <div align="center">
