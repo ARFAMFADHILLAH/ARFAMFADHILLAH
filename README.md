@@ -160,8 +160,8 @@ Mobile Development
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://youtube.com/@username">
-<img src="https://skillicons.dev/icons?i=youtube"/>
+<a href="https://youtube.com/@username" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" alt="YouTube"/>
 </a>
 
 <a href="mailto:your@email.com">
