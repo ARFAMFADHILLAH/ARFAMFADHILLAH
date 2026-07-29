@@ -71,11 +71,11 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Metrics & Activity
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ARFAMFADHILLAH&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARFAMFADHILLAH&layout=compact&theme=radical&hide_border=true" alt="langs" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARFAMFADHILLAH&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="langs" width="48%" />
 </div>
 
 <br>
@@ -88,17 +88,6 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARFAMFADHILLAH&theme=react&radius=16&hide_border=true" alt="activity-graph" width="100%" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARFAMFADHILLAH/ARFAMFADHILLAH/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/ARFAMFADHILLAH/ARFAMFADHILLAH/output/github-contribution-grid-snake.svg" />
-</picture>
 </div>
 
 ---
