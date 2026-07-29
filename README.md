@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Arfa Muhammad Fadhillah 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=180&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=35&fontColor=39FF14&fontStyle=bold&animation=fadeIn&lifeTime=3000" width="100%" />
+</p>
+
+<h1 align="center">Hi there! Welcome to my digital space 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Linux+Enthusiast+%F0%9F%90%A7;Ubuntu+Power+User;Neovim+Config+Master" alt="Typing SVG" />
@@ -8,6 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ARFAMFADHILLAH&style=flat-square&color=orange" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Compiling_Life-orange?style=flat-square&logo=linux&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/OS-Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 
 ---
@@ -21,7 +26,7 @@
 
 <!-- Quote Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=100&section=footer&text=“Talk%20is%20cheap.%20Show%20me%20the%20code.”%20–%20Linus%20Torvalds&fontSize=16&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20,30,45&height=70&section=footer&text=“Talk%20is%20cheap.%20Show%20me%20the%20code.”%20–%20Linus%20Torvalds&fontSize=16&fontColor=39FF14" width="100%" />
 </p>
 
 <div align="center">
@@ -36,7 +41,7 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Arsenal
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
@@ -66,12 +71,19 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Stats & Trophies
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARFAMFADHILLAH&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARFAMFADHILLAH&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Langs" width="48%" />
 </div>
+
+<br>
+
+<!-- GitHub Trophies Card -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ARFAMFADHILLAH&theme=dracula&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</p>
 
 <br>
 
