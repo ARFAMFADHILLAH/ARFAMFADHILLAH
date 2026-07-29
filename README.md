@@ -71,7 +71,7 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats & Streaks
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARFAMFADHILLAH&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="stats" width="48%" />
@@ -81,7 +81,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARFAMFADHILLAH&theme=radical&no-frame=true&no-bg=true" alt="trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARFAMFADHILLAH&theme=radical&hide_border=true" alt="streak" width="100%" />
 </p>
 
 <br>
