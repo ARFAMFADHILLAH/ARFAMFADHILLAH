@@ -74,21 +74,20 @@
 ### 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARFAMFADHILLAH&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARFAMFADHILLAH&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ARFAMFADHILLAH&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARFAMFADHILLAH&layout=compact&theme=radical&hide_border=true" alt="langs" width="48%" />
 </div>
 
 <br>
 
-<!-- GitHub Trophies Card -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARFAMFADHILLAH&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ARFAMFADHILLAH&theme=radical&no-frame=true&no-bg=true" alt="trophy" />
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARFAMFADHILLAH&theme=react&radius=16&hide_border=true&custom_title=Commit%20Activity%20Pulse" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARFAMFADHILLAH&theme=react&radius=16&hide_border=true" alt="activity-graph" width="100%" />
 </div>
 
 ---
