@@ -2,15 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E95420,100:2C001E&height=180&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=35&fontColor=FFB6C1&fontStyle=bold&animation=fadeIn&lifeTime=3000" width="100%" />
 </p>
 
-<h1 align="center">Hi there! Welcome to my digital space 🚀</h1>
+<h1 align="center">Halo! Selamat datang di ruang digital saya 🚀</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E95420&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Linux+Enthusiast+%F0%9F%90%A7;Ubuntu+Power+User;Neovim+Config+Master" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E95420&center=true&vCenter=true&width=520&height=50&lines=Software+Engineer;Linux+Enthusiast+%F0%9F%90%A7;Ubuntu+Power+User;Neovim+Config+Master" alt="Typing SVG" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ARFAMFADHILLAH&style=flat-square&color=E95420" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Status-Compiling_Life-E95420?style=flat-square&logo=linux&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Status-Menyusun_Kehidupan-E95420?style=flat-square&logo=linux&logoColor=white" alt="Status" />
 <img src="https://img.shields.io/badge/OS-Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
@@ -29,8 +29,18 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20,30,45&height=70&section=footer&text=“Talk%20is%20cheap.%20Show%20me%20the%20code.”%20–%20Linus%20Torvalds&fontSize=16&fontColor=E95420" width="100%" />
 </p>
 
+---
+
+### 👨‍💻 Tentang Saya
+
+- 🌱 Saat ini saya sedang mendalami **sistem kernel Linux** tingkat lanjut dan mengoptimalkan alur kerja **Neovim**.
+- ✍️ Berkomitmen untuk menulis kode yang bersih, efisien, dan skalabel.
+- ⚡ Fakta unik: Saya lebih banyak menghabiskan waktu di dalam terminal dan mengandalkan navigasi berbasis papan tik (*keyboard-driven*).
+
+---
+
 <div align="center">
-<h3>🐧 Environment & Core Tools</h3>
+<h3>🐧 Lingkungan & Alat Utama</h3>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Neovim-121d2f?style=for-the-badge&logo=neovim&logoColor=green" alt="Neovim" />
@@ -41,7 +51,7 @@
 
 ---
 
-### 💻 Tech Stack & Arsenal
+### 💻 Bahasa & Teknologi
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
@@ -71,7 +81,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Hubungi Saya
 
 <div align="center">
 <a href="https://linkedin.com/in/arfa-muhammad-fadhillah" target="_blank">
