@@ -148,28 +148,32 @@ Mobile Development
 
 ---
 
-# 🌎 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/arfa-muhammad-fadhillah" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/ARFAMFADHILLAH">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://instagram.com/username" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://linkedin.com/in/arfa-muhammad-fadhillah">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://youtube.com/@username" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://instagram.com/username">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+
+<a href="https://youtube.com/@username">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="50"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<a href="https://discord.com/users/id" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/id">
+  <img src="https://skillicons.dev/icons?i=discord" height="50"/>
 </a>
 
 </p>
