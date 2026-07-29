@@ -153,31 +153,23 @@ Mobile Development
 <p align="center">
 
 <a href="https://linkedin.com/in/arfa-muhammad-fadhillah" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="42"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/username" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="42"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://youtube.com/@username" target="_blank">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="42"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:your@email.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="42"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://discord.com/users/id" target="_blank">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="42"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </p>
