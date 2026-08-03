@@ -100,7 +100,7 @@ Mobile Development
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARFAMFADHILLAH&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ARFAMFADHILLAH&theme=radical&hide_border=true"/>
 
 </p>
 
