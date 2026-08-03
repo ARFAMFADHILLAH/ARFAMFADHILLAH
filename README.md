@@ -108,26 +108,6 @@ Mobile Development
 
 ---
 
-# 📈 Top Languages
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARFAMFADHILLAH&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ARFAMFADHILLAH&theme=radical&column=4&margin-w=20&margin-h=20"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
