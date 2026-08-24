@@ -99,12 +99,13 @@ Mobile Development
 ## 🛡️ Cybersecurity & Pentesting Tools
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" />
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux" />
-  <img src="https://cdn.simpleicons.org/metasploit/0052CC" width="48" height="48" alt="Metasploit" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="48" height="48" alt="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48" alt="Bash" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark" title="Wireshark" />
+  <img src="https://cdn.simpleicons.org/nmap/4E9A06" width="48" height="48" alt="Nmap" title="Nmap" />
+  <img src="https://cdn.simpleicons.org/metasploit/0052CC" width="48" height="48" alt="Metasploit" title="Metasploit" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="48" height="48" alt="Burp Suite" title="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="John the Ripper / Kali" title="John the Ripper / Kali" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48" alt="Aircrack-ng / Bash" title="Aircrack-ng / Bash" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="48" height="48" alt="Nikto / Linux" title="Nikto / Linux" />
 </p>
 
 ---
