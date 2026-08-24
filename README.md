@@ -96,34 +96,6 @@ Mobile Development
 
 ---
 
-# 🛡️ Cyber Security & Pentesting Toolkit for Ubuntu / Linux
-
-![Cybersecurity](https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20Pentesting-red?style=for-the-badge&logo=kalilinux)
-![Platform](https://img.shields.io/badge/OS-Ubuntu%20%7C%20Linux-E95420?style=for-the-badge&logo=ubuntu)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-Kumpulan perkakas (*tools*), skrip konfigurasi, dan panduan alur kerja (*workflow*) Cyber Security yang dioptimalkan untuk lingkungan **Ubuntu Linux**. Repositori ini dibuat untuk mempermudah proses *information gathering*, *vulnerability assessment*, *web application security*, hingga *network auditing*.
-
----
-
-## ⚙ DevOps & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
