@@ -96,6 +96,14 @@ Mobile Development
 
 ---
 
+# 🛡️ Cyber Security & Pentesting Toolkit for Ubuntu / Linux
+
+![Cybersecurity](https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20Pentesting-red?style=for-the-badge&logo=kalilinux)
+![Platform](https://img.shields.io/badge/OS-Ubuntu%20%7C%20Linux-E95420?style=for-the-badge&logo=ubuntu)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
