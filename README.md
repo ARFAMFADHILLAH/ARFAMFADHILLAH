@@ -96,6 +96,16 @@ Mobile Development
 
 ---
 
+## 🛡️ Cybersecurity & Pentesting Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=wireshark,kali,metasploit,burpsuite,linux,bash,postman,vscode"/>
+
+</p>
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
