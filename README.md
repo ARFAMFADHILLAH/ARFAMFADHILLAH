@@ -99,13 +99,12 @@ Mobile Development
 ## 🛡️ Cybersecurity & Pentesting Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-4E9A06?style=for-the-badge&logo=gnu-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-0052CC?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-John_the_Ripper-333333?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Aircrack--ng-000000?style=for-the-badge&logo=wireless&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nikto-CC0000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="45" height="45" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/metasploit/0052CC" width="45" height="45" alt="Metasploit" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="45" height="45" alt="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" height="45" alt="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="45" height="45" alt="Bash" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45" alt="Linux" />
 </p>
 
 ---
