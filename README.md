@@ -118,7 +118,7 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,arduino"/>
 
 </p>
 
