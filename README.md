@@ -60,7 +60,7 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs,dart,java"/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs,dart,java,go,swift,vue"/>
 
 </p>
 
@@ -70,7 +70,7 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,bootstrap,tailwind,kotlin,npm"/>
 
 </p>
 
@@ -80,7 +80,7 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase"/>
 
 </p>
 
@@ -90,15 +90,27 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,bash,nginx,postman,vscode,neovim"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,bash,nginx,postman,vscode,neovim,gitlab"/>
 
 </p>
+
+---
+
+##  Web Deploy
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel"/>
+  
+</p>
+
+---
 
 ---
 
 ## 🛡️ Cybersecurity & Pentesting Tools
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=redhat"/>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-4E9A06?style=for-the-badge&logo=gnu-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-0052CC?style=for-the-badge&logo=metasploit&logoColor=white" />
