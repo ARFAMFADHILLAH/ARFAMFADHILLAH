@@ -143,10 +143,11 @@ Mobile Development
   <a href="#"><img src="https://cdn.simpleicons.org/metasploit/0052CC" width="45" height="45" alt="Metasploit" title="Metasploit"/></a> &nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="45" height="45" alt="Kali Linux" title="Kali Linux"/></a> &nbsp;
   <a href="#"><img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="45" height="45" alt="Burp Suite" title="Burp Suite"/></a> &nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux/Nmap" title="Linux/Nmap"/></a>
+  <a href="#"><img src="https://simpleicons.org" width="45" height="45" alt="Nmap" title="Nmap"/></a>
 </p>
 
 ---
+
 
 # 📊 GitHub Statistics
 
