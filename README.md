@@ -137,13 +137,31 @@ Mobile Development
 
 ## 🛡️ Cybersecurity & Pentesting Tools
 
+
+
 <p align="center">
-  <img src="https://githubusercontent.com" width="45" height="45" alt="RedHat" title="Red Hat"/> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="Wireshark" title="Wireshark"/> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="Kali Linux" title="Kali Linux"/> &nbsp;
+
+  <img src="https://skillicons.dev/icons?i=redhat"/>
+
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Nmap-4E9A06?style=for-the-badge&logo=gnu-linux&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Metasploit-0052CC?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-John_the_Ripper-333333?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Aircrack--ng-000000?style=for-the-badge&logo=wireless&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Nikto-CC0000?style=for-the-badge&logo=security&logoColor=white" />
+
 </p>
 
----
+
+
+--- 
 
 # 📊 GitHub Statistics
 
