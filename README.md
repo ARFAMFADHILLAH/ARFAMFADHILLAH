@@ -60,7 +60,7 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs,dart,java,go,swift,vue"/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs,dart,java,go,swift"/>
 
 </p>
 
@@ -70,7 +70,7 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,bootstrap,tailwind,kotlin,npm"/>
+<img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,bootstrap,tailwind,kotlin,npm,express,vue,nextjs,nodejs,jquery,bun"/>
 
 </p>
 
@@ -80,26 +80,54 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,sqlite"/>
 
 </p>
 
 ---
 
-## ⚙ DevOps & Tools
+##  Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,threejs,anaconda,sklearn"/>
+  
+</p>
+
+---
+
+##  Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,cloudflare,git,netlify,heroku,kubernetes"/>
+  
+</p>
+
+---
+
+## ⚙ Development Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,bash,nginx,postman,vscode,neovim,gitlab"/>
+<img src="https://skillicons.dev/icons?i=postman,vscode,neovim,androidstudio,idea"/>
 
 </p>
 
 ---
 
-##  Web Deploy
+## ⚙ OS & Hardware
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel"/>
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,postman,vscode,neovim"/>
+
+</p>
+
+---
+
+##  Web Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma"/>
   
 </p>
 
