@@ -86,7 +86,7 @@ Mobile Development
 
 ---
 
-##  Machine Learning
+## 🤖 Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,threejs,anaconda,sklearn"/>
@@ -95,7 +95,7 @@ Mobile Development
 
 ---
 
-##  Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,cloudflare,git,netlify,heroku,kubernetes"/>
@@ -104,7 +104,7 @@ Mobile Development
 
 ---
 
-## ⚙ Development Tools
+## 🧰 Development Tools
 
 <p align="center">
 
@@ -124,7 +124,7 @@ Mobile Development
 
 ---
 
-##  Web Design
+## 🎨 Web Design
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma"/>
@@ -133,11 +133,7 @@ Mobile Development
 
 ---
 
----
-
 ## 🛡️ Cybersecurity & Pentesting Tools
-
-
 
 <p align="center">
 
@@ -158,8 +154,6 @@ Mobile Development
   <img src="https://img.shields.io/badge/-Nikto-CC0000?style=for-the-badge&logo=security&logoColor=white" />
 
 </p>
-
-
 
 --- 
 
