@@ -138,12 +138,15 @@ Mobile Development
 ## 🛡️ Cybersecurity & Pentesting Tools
 
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="45" height="45" alt="RedHat" title="Red Hat"/></a> &nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" height="45" alt="Wireshark" title="Wireshark"/></a> &nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/metasploit/0052CC" width="45" height="45" alt="Metasploit" title="Metasploit"/></a> &nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="45" height="45" alt="Kali Linux" title="Kali Linux"/></a> &nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="45" height="45" alt="Burp Suite" title="Burp Suite"/></a> &nbsp;
-  <a href="#"><img src="https://simpleicons.org" width="45" height="45" alt="Nmap" title="Nmap"/></a>
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="RedHat" title="Red Hat"/></a> &nbsp;
+  <a href="#"><img src="https://simpleicons.org" width="45" height="45" alt="Wireshark" title="Wireshark"/></a> &nbsp;
+  <a href="#"><img src="https://simpleicons.org" width="45" height="45" alt="Metasploit" title="Metasploit"/></a> &nbsp;
+  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Kali Linux" title="Kali Linux"/></a> &nbsp;
+  <a href="#"><img src="https://simpleicons.org" width="45" height="45" alt="Burp Suite" title="Burp Suite"/></a> &nbsp;
+  <a href="#"><img src="https://simpleicons.org" width="45" height="45" alt="Nmap" title="Nmap"/></a> &nbsp;
+  <a href="#"><img src="https://simpleicons.org" width="45" height="45" alt="OWASP" title="OWASP"/></a> &nbsp;
+  <a href="#"><img src="https://simpleicons.org" width="45" height="45" alt="Ghidra" title="Ghidra (Reverse Engineering)"/></a> &nbsp;
+  <a href="#"><img src="https://simpleicons.org" width="45" height="45" alt="John the Ripper" title="John the Ripper (Password Cracker)"/></a>
 </p>
 
 ---
