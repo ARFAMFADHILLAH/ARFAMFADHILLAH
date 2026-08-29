@@ -138,19 +138,12 @@ Mobile Development
 ## 🛡️ Cybersecurity & Pentesting Tools
 
 <p align="center">
-  <img src="https://shields.io" alt="RedHat"/> &nbsp;
-  <img src="https://shields.io" alt="Wireshark"/> &nbsp;
-  <img src="https://shields.io" alt="Metasploit"/> &nbsp;
-  <img src="https://shields.io" alt="Kali Linux"/> &nbsp;
-  <img src="https://shields.io" alt="Burp Suite"/> &nbsp;
-  <img src="https://shields.io" alt="Nmap"/> &nbsp;
-  <img src="https://shields.io" alt="OWASP"/> &nbsp;
-  <img src="https://shields.io" alt="Ghidra"/> &nbsp;
-  <img src="https://shields.io" alt="John the Ripper"/>
+  <img src="https://githubusercontent.com" width="45" height="45" alt="RedHat" title="Red Hat"/> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="Wireshark" title="Wireshark"/> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="Kali Linux" title="Kali Linux"/> &nbsp;
 </p>
 
 ---
-
 
 # 📊 GitHub Statistics
 
