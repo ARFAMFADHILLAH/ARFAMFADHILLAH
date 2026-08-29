@@ -110,11 +110,11 @@ Mobile Development
 ## 🛡️ Cybersecurity & Pentesting Tools
 
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="45" height="45" alt="RedHat" title="RedHat"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/wireshark.png" width="45" height="45" alt="Wireshark" title="Wireshark"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/metasploit.png" width="45" height="45" alt="Metasploit" title="Metasploit"/></a> &nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="45" height="45" alt="RedHat" title="Red Hat"/></a> &nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="45" height="45" alt="Wireshark" title="Wireshark"/></a> &nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="45" height="45" alt="Metasploit" title="Metasploit"/></a> &nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="45" height="45" alt="Kali Linux" title="Kali Linux"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/burpsuite.png" width="45" height="45" alt="Burp Suite" title="Burp Suite"/></a> &nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/burpsuite/FF6600" width="45" height="45" alt="Burp Suite" title="Burp Suite"/></a> &nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux/Nmap" title="Linux/Nmap"/></a>
 </p>
 
