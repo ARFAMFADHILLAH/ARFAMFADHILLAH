@@ -29,7 +29,7 @@ Country     : Indonesia 🇮🇩
 
 Operating System
 ----------------
-Ubuntu Linux
+Fedora Linux
 Windows
 
 Editors
