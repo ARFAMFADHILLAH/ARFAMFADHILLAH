@@ -110,12 +110,12 @@ Mobile Development
 ## 🛡️ Cybersecurity & Pentesting Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redhat" height="42" />
-  <img src="https://img.shields.io/badge/-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="42" />
-  <img src="https://img.shields.io/badge/-4E9A06?style=for-the-badge&logo=gnu-linux&logoColor=white" height="42" />
-  <img src="https://img.shields.io/badge/-0052CC?style=for-the-badge&logo=metasploit&logoColor=white" height="42" />
-  <img src="https://img.shields.io/badge/-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" height="42" />
-  <img src="https://img.shields.io/badge/-333333?style=for-the-badge&logo=kalilinux&logoColor=white" height="42" />
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="45" height="45" alt="RedHat" title="RedHat"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/wireshark.png" width="45" height="45" alt="Wireshark" title="Wireshark"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/metasploit.png" width="45" height="45" alt="Metasploit" title="Metasploit"/></a> &nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="45" height="45" alt="Kali Linux" title="Kali Linux"/></a> &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/burpsuite.png" width="45" height="45" alt="Burp Suite" title="Burp Suite"/></a> &nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux/Nmap" title="Linux/Nmap"/></a>
 </p>
 
 ---
