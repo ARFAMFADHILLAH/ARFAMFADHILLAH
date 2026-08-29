@@ -138,18 +138,19 @@ Mobile Development
 ## 🛡️ Cybersecurity & Pentesting Tools
 
 <p align="center">
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="RedHat" title="Red Hat"/></a> &nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Wireshark" title="Wireshark"/></a> &nbsp;
-  <a href="#"><img src="https://unpkg.com" width="45" height="45" alt="Metasploit" title="Metasploit"/></a> &nbsp;
-  <a href="#"><img src="https://jsdelivr.net" width="45" height="45" alt="Kali Linux" title="Kali Linux"/></a> &nbsp;
-  <a href="#"><img src="https://unpkg.com" width="45" height="45" alt="Burp Suite" title="Burp Suite"/></a> &nbsp;
-  <a href="#"><img src="https://unpkg.com" width="45" height="45" alt="Nmap" title="Nmap"/></a> &nbsp;
-  <a href="#"><img src="https://unpkg.com" width="45" height="45" alt="OWASP" title="OWASP"/></a> &nbsp;
-  <a href="#"><img src="https://unpkg.com" width="45" height="45" alt="Ghidra" title="Ghidra (Reverse Engineering)"/></a> &nbsp;
-  <a href="#"><img src="https://unpkg.com" width="45" height="45" alt="John the Ripper" title="John the Ripper (Password Cracker)"/></a>
+  <img src="https://shields.io" alt="RedHat"/> &nbsp;
+  <img src="https://shields.io" alt="Wireshark"/> &nbsp;
+  <img src="https://shields.io" alt="Metasploit"/> &nbsp;
+  <img src="https://shields.io" alt="Kali Linux"/> &nbsp;
+  <img src="https://shields.io" alt="Burp Suite"/> &nbsp;
+  <img src="https://shields.io" alt="Nmap"/> &nbsp;
+  <img src="https://shields.io" alt="OWASP"/> &nbsp;
+  <img src="https://shields.io" alt="Ghidra"/> &nbsp;
+  <img src="https://shields.io" alt="John the Ripper"/>
 </p>
 
 ---
+
 
 # 📊 GitHub Statistics
 
