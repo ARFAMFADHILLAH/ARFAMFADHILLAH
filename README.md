@@ -189,7 +189,7 @@ Mobile Development
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://instagram.com/username">
+<a href="https://www.instagram.com/arfaamhmmd__">
   <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
