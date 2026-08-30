@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=E95420&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Laravel+Developer;Flutter+Developer;Ubuntu+Power+User;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=E95420&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Laravel+Developer;Flutter+Developer;Fedora+Linux+Power+User;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
