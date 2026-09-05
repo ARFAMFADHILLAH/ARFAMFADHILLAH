@@ -108,7 +108,7 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postman,vscode,neovim,androidstudio,idea"/>
+<img src="https://skillicons.dev/icons?i=postman,vscode,neovim,androidstudio,idea,antigravity"/>
 
 </p>
 
