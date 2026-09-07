@@ -98,7 +98,7 @@ Mobile Development
 ## ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,cloudflare,git,netlify,heroku,kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,cloudflare,git,netlify,heroku,kubernetes,n8n"/>
   
 </p>
 
