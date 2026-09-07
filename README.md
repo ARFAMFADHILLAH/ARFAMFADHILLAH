@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=E95420&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Laravel+Developer;Flutter+Developer;Fedora+Linux+Power+User;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=color=0:0B57D0,50:3C6EB4,100:0A192F&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Laravel+Developer;Flutter+Developer;Fedora+Linux+Power+User;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -222,6 +222,6 @@ Mobile Development
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E95420,50:FF7B00,100:2C001E&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,50:3C6EB4,100:0A192F&height=150&section=footer"/>
 
 </p>
