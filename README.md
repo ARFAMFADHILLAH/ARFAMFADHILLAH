@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E95420,50:FF7B00,100:2C001E&height=250&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Linux%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,50:3C6EB4,100:0A192F&height=250&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Linux%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Arfa Muhammad Fadhillah</h1>
