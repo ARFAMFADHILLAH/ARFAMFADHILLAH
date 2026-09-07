@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,50:3C6EB4,100:0A192F&height=250&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Linux%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,50:3C6EB4,100:0A192F&height=250&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20|%20Mobile%20App%20Architect%20|%20Linux%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Arfa Muhammad Fadhillah</h1>
 
 <h3 align="center">
-💻 Software Engineer • 🐧 Linux Enthusiast • 🚀 Open Source Learner
+📱 Android Developer • 🚀 Mobile Specialist • 🐧 Linux Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=color=0:0B57D0,50:3C6EB4,100:0A192F&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Laravel+Developer;Flutter+Developer;Fedora+Linux+Power+User;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=0B57D0&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Android+Developer;Kotlin+%26+Flutter+Developer;Mobile+App+Architect;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -24,32 +24,33 @@
 
 ```yaml
 Name        : Arfa Muhammad Fadhillah
-Role        : Software Engineer
+Role        : Mobile Developer (Android Specialist)
 Country     : Indonesia 🇮🇩
 
-Operating System
-----------------
-Fedora Linux
-Windows
+Core Focus
+----------
+Native Android (Kotlin / Jetpack Compose)
+Cross-Platform (Flutter / Dart)
+Mobile Architecture & API Integration
 
-Editors
--------
-Neovim
+Editors & IDEs
+--------------
+Android Studio
 VS Code
+Neovim
 
 Currently Learning
 ------------------
-Laravel
-Flutter
-Linux Server
-DevOps
+Jetpack Compose & Kotlin Multiplatform
+Mobile Security & Optimization
+CI/CD for Mobile Apps
 
 Interested In
 -------------
-Backend Development
+Android Development
+Mobile UX/UI
+Backend API Integration
 Open Source
-Web Development
-Mobile Development
 ```
 
 ---
