@@ -54,105 +54,21 @@ Mobile Development
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Tools
 
-## 👨‍💻 Languages
-
+### 📱 Mobile Development (Core)
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp,cs,dart,java,go,swift"/>
-
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,java,flutter,androidstudio,swift"/>
 </p>
 
----
-
-## ⚡ Frameworks
-
+### 🌐 Backend, Database & Cloud
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,bootstrap,tailwind,kotlin,npm,express,vue,nextjs,nodejs,jquery,bun"/>
-
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,firebase,supabase,sqlite,mysql,postman,docker"/>
 </p>
 
----
-
-## 🗄 Database
-
+### 🧰 Tools & Design
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,sqlite"/>
-
-</p>
-
----
-
-## 🤖 Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,threejs,anaconda,sklearn"/>
-  
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,cloudflare,git,netlify,heroku,kubernetes,n8n"/>
-  
-</p>
-
----
-
-## 🧰 Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postman,vscode,neovim,androidstudio,idea,antigravity"/>
-
-</p>
-
----
-
-## ⚙ OS & Hardware
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,arduino"/>
-
-</p>
-
----
-
-## 🎨 Web Design
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma"/>
-  
-</p>
-
----
-
-## 🛡️ Cybersecurity & Pentesting Tools
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/-Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/-Nmap-4E9A06?style=for-the-badge&logo=gnu-linux&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/-Metasploit-0052CC?style=for-the-badge&logo=metasploit&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/-John_the_Ripper-333333?style=for-the-badge&logo=kalilinux&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/-Aircrack--ng-000000?style=for-the-badge&logo=wireless&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/-Nikto-CC0000?style=for-the-badge&logo=security&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode,neovim,linux"/>
 </p>
 
 --- 
