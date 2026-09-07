@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,50:3C6EB4,100:0A192F&height=200&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20Mobile%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,50:3C6EB4,100:0A192F&height=250&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20|%20Mobile%20App%20Architect%20|%20Linux%20Enthusiast&descAlignY=58&descSize=18" width="100%" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=0B57D0&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%26+Flutter+Specialist;Mobile+App+Architect;Always+Learning+New+Things" />
