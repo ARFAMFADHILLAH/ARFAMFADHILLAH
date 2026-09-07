@@ -1,5 +1,6 @@
-<h1 align="center">Arfa Muhammad Fadhillah</h1>
-<h3 align="center">Mobile & Web Developer • Linux Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,50:3C6EB4,100:0A192F&height=200&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Mobile_%26_Web_Development-0B57D0?style=for-the-badge" />
