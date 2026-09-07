@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,ts,js,html,css,tailwind,nodejs,express" />
 
 * **Database & Cloud Services:**  
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase,vercel,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase,vercel,postman,docker,mongodb" />
 
 * **Tools & OS:**  
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,neovim,linux" />
