@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=0B57D0&center=true&vCenter=true&width=600&lines=Android+%26+Web+Developer;Kotlin+%26+Flutter+Specialist;Laravel+%26+Next.js+Developer;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ARFAMFADHILLAH&style=for-the-badge&color=0B57D0" />
   <img src="https://img.shields.io/github/followers/ARFAMFADHILLAH?style=for-the-badge&color=3C6EB4" />
   <img src="https://img.shields.io/github/stars/ARFAMFADHILLAH?style=for-the-badge&color=0A192F" />
