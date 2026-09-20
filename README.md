@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase,vercel,postman,docker,mongodb" />
 
 * **Tools & OS:**  
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,neovim,linux" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,neovim,linux,antigravity" />
 
 <br/>
 
