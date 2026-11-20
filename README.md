@@ -136,7 +136,6 @@ Software Engineer with **2+ years** of hands-on experience in cross-platform (**
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,neovim,linux" />
 
 **Automation & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=docker" height="48" />
 <img src="https://cdn.simpleicons.org/podman/892CA0" height="48" hspace="6" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" hspace="6" />
 
