@@ -27,7 +27,7 @@ Software Engineer with **2+ years** of hands-on experience in cross-platform (**
 - 🚢 Shipped **5+ production-grade** web & mobile applications
 - ⚡ Improved frontend rendering speed by **~25%**
 - 🎤 Mentored **100+ developers** as a Google Skills Arcade 2026 Facilitator
-- 🌱 Currently exploring: **Kotlin Multiplatform, AI agents, Advanced Next.js, CI/CD**
+- 🌱 Currently exploring: **Kotlin Multiplatform, AI agents, workflow automation (n8n on Podman), CI/CD**
 - 📍 Based in **Jakarta, Indonesia** · Open to **On-site / Hybrid / Remote**
 
 ---
@@ -134,6 +134,11 @@ Software Engineer with **2+ years** of hands-on experience in cross-platform (**
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,neovim,linux" />
+
+**Automation & DevOps**<br/>
+<img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 
 ---
 
