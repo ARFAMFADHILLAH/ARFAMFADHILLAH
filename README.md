@@ -136,9 +136,9 @@ Software Engineer with **2+ years** of hands-on experience in cross-platform (**
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,neovim,linux" />
 
 **Automation & DevOps**<br/>
-<img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=docker" height="48" />
+<img src="https://cdn.simpleicons.org/podman/892CA0" height="48" hspace="6" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" hspace="6" />
 
 ---
 
