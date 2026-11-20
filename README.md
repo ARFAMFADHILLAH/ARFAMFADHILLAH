@@ -206,7 +206,7 @@ Software Engineer with **2+ years** of hands-on experience in cross-platform (**
 ## 🎓 Education & Certifications
 
 **Education**
-- **Nusantara University** — Information Systems
+- **Nusantara University** — Information Systems (2025 - Present)
 - **SMK Negeri 40 Jakarta** — Software Engineering (2022 – 2025)
 
 **Certifications** (selected)
