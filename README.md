@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,50:3C6EB4,100:0A192F&height=200&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20and%20Web%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B57D0,50:3C6EB4,100:0A192F&height=200&section=header&text=Arfa%20Muhammad%20Fadhillah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20%7C%20Linux%20Enthusiast&descAlignY=60&descSize=16" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Mobile_%26_Web_Development-0B57D0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Mobile_%26_Full--Stack-0B57D0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OS-Fedora_Linux-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-2EA043?style=for-the-badge" />
 </p>
@@ -13,6 +13,7 @@
   <a href="#-experience">Experience</a> •
   <a href="#-featured-projects">Projects</a> •
   <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-community--leadership">Community</a> •
   <a href="#-contact">Contact</a>
 </p>
 
@@ -20,13 +21,13 @@
 
 ## 👋 About
 
-Software Engineer yang fokus di **Mobile (Android / Flutter)** dan **Web (Laravel / Next.js)**.
-Suka membangun aplikasi dengan arsitektur bersih, performa baik, dan integrasi API yang rapi.
+Software Engineer with **2+ years** of hands-on experience in cross-platform (**Flutter**) and native Android (**Kotlin**) development, plus modern full-stack web with **Next.js**, **Express.js**, and **Laravel**. I enjoy building scalable, high-performance products and integrating AI/ML features into real apps.
 
-- 🔭 Sedang mengerjakan: **[nama project / topik]**
-- 🌱 Sedang belajar: **Kotlin Multiplatform, Advanced Next.js, CI/CD**
-- 📍 Berbasis di: **[Kota, Indonesia]**
-- 💬 Tanya saya soal: **Android, Flutter, Laravel**
+- 🚢 Shipped **5+ production-grade** web & mobile applications
+- ⚡ Improved frontend rendering speed by **~25%**
+- 🎤 Mentored **100+ developers** as a Google Skills Arcade 2026 Facilitator
+- 🌱 Currently exploring: **Kotlin Multiplatform, AI agents, Advanced Next.js, CI/CD**
+- 📍 Based in **Jakarta, Indonesia** · Open to **On-site / Hybrid / Remote**
 
 ---
 
@@ -34,24 +35,54 @@ Suka membangun aplikasi dengan arsitektur bersih, performa baik, dan integrasi A
 
 <table>
   <tr>
-    <td width="150"><b>2025 – Sekarang</b></td>
+    <td width="170" valign="top"><b>Nov 2026 – Now</b></td>
     <td>
-      <b>[Job Title]</b> · <i>[Nama Perusahaan]</i><br/>
-      • [Pencapaian terukur, contoh: Mengurangi waktu loading aplikasi 40%]<br/>
-      • [Teknologi yang dipakai: Kotlin, Jetpack Compose, REST API]
+      <b>Lead Software Architect</b> · <i>Rizqy Utama Electric</i><br/>
+      • Designed the architecture for customer-facing websites and an integrated admin panel<br/>
+      • Embedded AI agents in the admin dashboard to automate internal workflows and analytics<br/>
+      • Designed database schemas and secure API integrations that keep the platform scalable and modular
     </td>
   </tr>
   <tr>
-    <td><b>2024 – 2025</b></td>
+    <td valign="top"><b>Jul 2026 – Now</b></td>
     <td>
-      <b>[Job Title / Freelance / Magang]</b> · <i>[Nama Perusahaan]</i><br/>
-      • [Apa yang kamu bangun dan dampaknya]<br/>
-      • [Teknologi yang dipakai]
+      <b>Mobile Engineer</b> · <i>Webvibes.ID</i><br/>
+      • Previously IT Engineer (Feb 2025 – Aug 2026): built and maintained back-end web architectures<br/>
+      • Used web analytics to turn user behavior data into performance improvements
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Oct 2024 – Now</b></td>
+    <td>
+      <b>Freelance Mobile & Web Engineer</b> · <i>Fiverr, Upwork, Fastwork.co, Projects.co.id</i><br/>
+      • Delivering Flutter, Kotlin, and Next.js projects for clients across platforms
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Dec 2025 – Jun 2026</b></td>
+    <td>
+      <b>IT Operations Engineer</b> · <i>PT Radius Allkindo Electric</i><br/>
+      • Designed and maintained the company's web application and product listings<br/>
+      • Provided infrastructure, hardware, and end-user technical support
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Oct 2024 – Mar 2025</b></td>
+    <td>
+      <b>Web Developer (Internship)</b> · <i>PT Bumi Mataritama</i><br/>
+      • Developed and maintained 5 company websites with SEO best practices<br/>
+      • Set up and configured a VPS and applied security measures against DDoS attacks
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Sep 2019 – Now</b></td>
+    <td>
+      <b>Founder</b> · <i>Rizqyutamastore</i><br/>
+      • Founded the brand and grew it from early-stage setup into a multi-year operation<br/>
+      • Unified web architecture, digital marketing, and physical sales under one business model
     </td>
   </tr>
 </table>
-
-> Tips: tulis hasil dan angka, bukan hanya daftar tugas.
 
 ---
 
@@ -60,52 +91,77 @@ Suka membangun aplikasi dengan arsitektur bersih, performa baik, dan integrasi A
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 [Nama Project Mobile]</h3>
-      [Deskripsi 1-2 kalimat: masalah yang diselesaikan.]<br/><br/>
+      <h3>📄 Pageify</h3>
+      PDF & image tools that run right in the browser: convert JPG to PDF and PDF to JPG, merge, split, rotate, watermark, and image to WebP. Cross-platform with a single codebase.<br/><br/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/><br/>
+      <a href="https://github.com/ARFAMFADHILLAH/Pageify">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 More on my portfolio</h3>
+      Web and mobile projects built with Flutter, Kotlin, Next.js, and Express.js, including work with Google Maps Platform and Firebase.<br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br/><br/>
-      <a href="https://github.com/ARFAMFADHILLAH/REPO-1">Source</a> · <a href="#">Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 [Nama Project Web]</h3>
-      [Deskripsi 1-2 kalimat: masalah yang diselesaikan.]<br/><br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/><br/>
-      <a href="https://github.com/ARFAMFADHILLAH/REPO-2">Source</a> · <a href="#">Live</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ [Nama Project 3]</h3>
-      [Deskripsi singkat.]<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/><br/>
-      <a href="https://github.com/ARFAMFADHILLAH/REPO-3">Source</a> · <a href="#">Live</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 [Nama Project 4]</h3>
-      [Deskripsi singkat.]<br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><br/><br/>
-      <a href="https://github.com/ARFAMFADHILLAH/REPO-4">Source</a>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/><br/>
+      <a href="https://web-portofolio-arfa.vercel.app/">View portfolio</a>
     </td>
   </tr>
 </table>
+
+<!--
+  TODO: tambahkan project unggulan lain dengan menyalin blok <td> di atas.
+  Contoh: aplikasi Flutter/Kotlin, website Next.js, atau project AI/ML kamu.
+-->
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Mobile**<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio" />
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,react" />
 
 **Web & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,ts,tailwind,nodejs" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,laravel,tailwind" />
 
-**Database & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,vercel,docker" />
+**AI / ML & Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,java,go,cpp" />
+
+**Cloud & Database**<br/>
+<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,mysql,postgres,supabase,docker" />
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,neovim,linux" />
+
+---
+
+## 🤝 Community & Leadership
+
+| Role | Organization |
+| ---- | ------------ |
+| Microsoft Student Ambassador | Microsoft (Aug 2026 – Now) |
+| Facilitator, Google Skills Arcade 2026 | Google Cloud Skills Boost (Jul – Nov 2026) |
+| Google Cloud Innovator · Maps Platform Innovator | Google |
+| Community Developer, Firebase Studio · Google Developer Program | Google / GDG |
+| AI Engineer Student (scholarship) | Pijak × Dicoding × IBM SkillsBuild |
+| Research & Development Staff | Himpunan Mahasiswa Komputer, Institut Bisnis Nusantara |
+| Member | AWS User Group Jakarta · NVIDIA & Google community · Anthropic community · GitHub Developer Program |
+
+---
+
+## 🎓 Education & Certifications
+
+**Education**
+- **Nusantara University** — Information Systems
+- **SMK Negeri 40 Jakarta** — Software Engineering (2022 – 2025)
+
+**Certifications & Awards**
+- Gemini Certified Educator
+- Belajar Penerapan Data Science dengan Microsoft Fabric
+- HackerRank — SQL (Basic)
+- Mastering Leadership
+- PRESMAS English Olympiad (Award)
 
 ---
 
@@ -118,20 +174,13 @@ Suka membangun aplikasi dengan arsitektur bersih, performa baik, dan integrasi A
 
 ---
 
-## 🎓 Education & Certifications
-
-- **[Nama Kampus]** — [Jurusan], [Tahun]
-- [Sertifikasi, contoh: Google Associate Android Developer / Dicoding]
-
----
-
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://portfolio-kamu.com"><img src="https://img.shields.io/badge/Portfolio-0B57D0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arfamuhammadfadhillah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:work.arfamuhammadfadhillah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/arfaamhmmd__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://web-portofolio-arfa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B57D0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
