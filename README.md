@@ -130,7 +130,7 @@ Software Engineer with **2+ years** of hands-on experience in cross-platform (**
 <img src="https://skillicons.dev/icons?i=py,tensorflow,java,go,cpp" />
 
 **Cloud & Database**<br/>
-<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,mysql,postgres,supabase,docker" />
+<img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,mysql,postgres,supabase,docker,sqlite" />
 
 **Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,neovim,linux" />
